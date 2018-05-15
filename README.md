@@ -3,7 +3,7 @@ A demo about SocketIO_python_client.
 
 There are many libraries for python-socketio server but few are about client. This is a simple demo.
 
-node version 10.0.0
+node version 8.11.1
 
 Usage:
 
